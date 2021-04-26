@@ -2,4 +2,5 @@
 
 ## Integrantes
 
-### Gabriel Antonio Lozano
+### Gabriel Antonio Lozano.
+### Luisa Fernanda Fernadez.
