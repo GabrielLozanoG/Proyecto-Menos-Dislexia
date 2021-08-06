@@ -1,0 +1,23 @@
+{
+  "name": "Proyecto-Menos-Dislexia",
+  "version": "1.0.0",
+  "description": "## Integrantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielLozanoG/Proyecto-Menos-Dislexia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielLozanoG/Proyecto-Menos-Dislexia/issues"
+  },
+  "homepage": "https://github.com/GabrielLozanoG/Proyecto-Menos-Dislexia#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
